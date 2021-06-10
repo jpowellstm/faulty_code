@@ -1,7 +1,7 @@
 # Faulty Code
 
-Each of these exercises has code with some errors. For each exercise you should do the following:
-1. read the descritption of what the code is supposed to do
+Each of these exercises here has some code with errors in it. For each exercise you should do the following:
+1. read the descripttion of what the code is supposed to do
 2. copy and paste the code into your python environment
 3. run the code
 4. look at what errors are given by the python interpreter
